@@ -1,5 +1,6 @@
 # Budget-Tracker
-This is a budget tracker
+This is a budget tracker for user
+
 
 Purpose:
 The project serves as a simple budget tracker, allowing users to input their income and expenses, view a list of transactions, and see the current balance.
